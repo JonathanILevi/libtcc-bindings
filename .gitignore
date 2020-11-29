@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/libtcc-bindings
+libtcc-bindings.so
+libtcc-bindings.dylib
+libtcc-bindings.dll
+libtcc-bindings.a
+libtcc-bindings.lib
+libtcc-bindings-test-*
+*.exe
+*.o
+*.obj
+*.lst

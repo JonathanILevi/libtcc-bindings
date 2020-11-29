@@ -1,0 +1,5 @@
+name "libtcc-bindings"
+description "Small, fast, and embeddable C compiler and interpreter."
+authors "Jonathan I Levi"
+copyright "none"
+license "none"
